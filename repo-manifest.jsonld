@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/anthropics/blobfile/commit/e8d35f07e4fcc40206a69f4cbf0765da9f66c920",
       "git:hexsha": "e8d35f07e4fcc40206a69f4cbf0765da9f66c920",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
