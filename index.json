@@ -1,0 +1,11 @@
+{
+  "org": "anthropics",
+  "repo": "blobfile",
+  "versions": [
+    {
+      "commit": "e8d35f07e4fcc40206a69f4cbf0765da9f66c920",
+      "tag": "",
+      "parsed_at": "2026-11-06T07:07:29.421074+00:00"
+    }
+  ]
+}
